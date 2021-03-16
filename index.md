@@ -14,7 +14,7 @@
 
       <link rel="stylesheet" href="https:/github.com/mnoel112/Moleon-Noel.Github.io/css/bootstrap.min.css"/>
       <link rel="stylesheet" href="https://github.com/mnoel112/Moleon-Noel.Github.io/css/font-awesome.min.css"/>
-    <ink rel="stylesheet" href="https://github.com/mnoel112/Moleon-Noel.Github.io/css/animate.css"/>
+    <ink rel="stylesheet" href="https://github.com/mnoel112/Moleon-Noel.Github.io/tree/main/css/animate.css"/>
 
 		<link rel="stylesheet" href="css/style.css" />
 
