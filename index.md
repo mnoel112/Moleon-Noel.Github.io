@@ -18,8 +18,8 @@
 
 		<link rel="stylesheet" href="css/style.css" />
 
-    <script type="text/javascript" src="https://github.com/mnoel112/Moleon-Noel.Github.io/js/jquery-1.11.2.min.js"></script>
-    <script type="text/javascript" src="https://github.com/mnoel112/Moleon-Noel.Github.io/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://github.com/mnoel112/Moleon-Noel.Github.io/tree/main/js/jquery-1.11.2.min.js"></script>
+    <script type="text/javascript" src=https://github.com/mnoel112/Moleon-Noel.Github.io/tree/main/js/bootstrap.min.js"></script>
 <<<<<<< Updated upstream
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZXJBVDf7R4JqmSpopVPoduIGWx1IwpBM"></script>
     <script type="text/javascript" src="js/plugins.js"></script>
