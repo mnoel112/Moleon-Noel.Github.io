@@ -20,8 +20,13 @@
 
     <script type="text/javascript" src="https://mnoel112.github.io/Moleon-Noel.Github.io/js/jquery-1.11.2.min.js"></script>
     <script type="text/javascript" src="https://mnoel112.github.io/Moleon-Noel.Github.io/js/bootstrap.min.js"></script>
+<<<<<<< Updated upstream
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZXJBVDf7R4JqmSpopVPoduIGWx1IwpBM"></script>
     <script type="text/javascript" src="js/plugins.js"></script>
+=======
+    <script type="text/javascript" src="https://mnoel112.github.io/Moleon-Noel.Github.io/https://maps.googleapis.com/maps/api/js?key=AIzaSyCZXJBVDf7R4JqmSpopVPoduIGWx1IwpBM"></script>
+    <script type="text/javascript" src="https://mnoel112.github.io/Moleon-Noel.Github.io/js/plugins.js"></script>
+>>>>>>> Stashed changes
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
