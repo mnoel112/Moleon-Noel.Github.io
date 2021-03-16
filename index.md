@@ -14,7 +14,7 @@
 
       <link rel="stylesheet" href="css/bootstrap.min.css"/>
       <link rel="stylesheet" href="css/font-awesome.min.css"/>
-    <ink rel="stylesheet" href="https://main/css/animate.css"/>
+    <link rel="stylesheet" href="https://main/css/animate.css"/>
 
 		<link rel="stylesheet" href="css/style.css" />
 
@@ -25,7 +25,7 @@
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZXJBVDf7R4JqmSpopVPoduIGWx1IwpBM"></script>
     <script type="text/javascript" src="js/plugins.js"></script>
 =======
-    <script type="text/javascript" src="https:https://maps.googleapis.com/maps/api/js?key=AIzaSyCZXJBVDf7R4JqmSpopVPoduIGWx1IwpBM"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZXJBVDf7R4JqmSpopVPoduIGWx1IwpBM"></script>
     <script type="text/javascript" src="/js/plugins.js"></script>
 -------> Stashed changes
 
