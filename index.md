@@ -12,9 +12,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Moleon Noel Jr</title>
 
-    <link rel="stylesheet" href="css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="css/font-awesome.min.css"/>
-    <link rel="stylesheet" href="css/animate.css"/>
+    <link rel="stylesheet" href="https://github.com/mnoel112/Moleon-Noel.Github.io/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://github.com/mnoel112/Moleon-Noel.Github.io/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://github.com/mnoel112/Moleon-Noel.Github.io/css/animate.css"/>
 
 		<link rel="stylesheet" href="css/style.css" />
 
