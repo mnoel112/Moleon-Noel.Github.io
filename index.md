@@ -187,20 +187,18 @@
                   <p>I graduated with a A.S. in Information Technology.</p>
                 </div>
               </div>
-
               <div class="about-content left animated" data-animate="fadeInLeft">
                 <div class="about-icon"><i class="fa fa-desktop"></i></div>
                 <div class="about-detail">
                   <h4>CompTia A+ Certification</h4>
-                  <p>Entry Level knowledge in Windows Repair for PC Technicians. I learned to install, configure and repair Desktops and Laptops.I also learn to implement a variety of troubleshooting techniques to fix system errors and connectivity issues. Centered on Windows 8.1 and 10 architecture . (I do have knowledge in windows 7 architecture as well.) .</p>
+                  <p>Entry Level knowledge in Windows Repair for PC Technicians. I learned to install, configure and repair Desktops and Laptops.I also learn to implement a variety of troubleshooting techniques to fix system errors and connectivity issues. Centered on Windows 8.1 and 10 architecture . (I do have knowledge in windows 7 architecture as well.)</p>
                 </div>
               </div>
-
               <div class="about-content left animated" data-animate="fadeInLeft">
                 <div class="about-icon"><i class="fa fa-cube"></i></div>
                 <div class="about-detail">
                   <h4>Wide ranging Hardware/Software support</h4>
-                  <p>• I have 10+ years of Experience with Desktop and Laptop Disassembly and Assembly . I provide mobile phone repair, disassembly and assembly (<strong>Apple iPhone</strong>  4 4s 5 5c 6 6s 7 7plus X XS XR ) </p>
+                  <p>• I have 10+ years of Experience with Desktop and Laptop Disassembly and Assembly. I provide mobile phone repair, disassembly and assembly (<strong>Apple iPhone</strong> 4 4s 5 5c 6 6s 7 7plus X XS XR)</p>
                 </div>
               </div>
             </div>
@@ -208,18 +206,14 @@
         </div> <!-- /.row table-row -->
       </div> <!-- /.container -->
     </section>
-	
-	
-	    <!-- PORTFOLIO -->
-
-    <section id="portfolio" class="light">
+	 <!-- PORTFOLIO -->
+  <section id="portfolio" class="light">
       <header class="title">
         <h2>Projects</h2> 
         <h1><em>These are current projects  that I am working on at the moment.</em></h1>
         <p></p>
       </header>
-
-      <div class="container-fluid">
+<div class="container-fluid">
         <div class="row">
           <ul id="filters" class="list-inline">
             <li data-filter="all" class="filter">All</li>
@@ -342,7 +336,6 @@
                 <div><em>(Nov 2020-Jan 2021)</em></div></h5>
 
               <p>I assist drivers in delivering packages to customers in residential and business locations. I delivered on average 80-100 on a 8 hour shift. I also participate in pickups of packages to be processed overnight.</p>
-
               <div class="team-social">
                 <ul class="list-inline social-list">
                   <li><a href="#" class="fa fa-twitter"></a></li>
@@ -449,7 +442,6 @@
               </div>
             </div>
           </div>
-
           <div class="col-md-3 col-sm-6 col-xs-6">
             <div class="counter animated" data-animate="fadeInUp" data-delay="1500">
               <div class="counter-icon">
@@ -471,7 +463,7 @@
      <section id="contact" class="dark">
       <header class="title">
         <h2>Contact <span>Me</span></h2>
-        <p>Have a question? Feel free to reach me below. The worst I can say is no.</p>
+        <p>Have a question? Feel free to reach me below.</p>
       </header>
 
       <div class="container">
@@ -500,7 +492,7 @@
                 <span><i class="fa fa-map-marker fa-lg"></i> 201 Hunt St, Clermont, Fl 34711</span>
                 <span><i class="fa fa-phone fa-lg"></i> (954) 512 - 3801</span>
                 <span><i class="fa fa-envelope-o fa-lg"></i> <a href="mailto:moleonnoeljr@icloud.com">moleonnoeljr&#64;icloud.com</a></span>
-                <span><i class="fa fa-globe fa-lg"></i> <a href="http://support.example.com">moleonnoeljunior.com</a></span>
+                <span><i class="fa fa-globe fa-lg"></i> <a href="http://Moleonnoeljr.com">moleonnoeljunior.com</a></span>
             </address>
           </div>
 		  
