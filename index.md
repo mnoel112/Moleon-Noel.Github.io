@@ -18,15 +18,15 @@
 
 		<link rel="stylesheet" href="css/style.css" />
 
-    <script type="text/javascript" src="https://github.com/mnoel112/Moleon-Noel.Github.io/tree/main/js/jquery-1.11.2.min.js"></script>
-    <script type="text/javascript" src="https://github.com/mnoel112/Moleon-Noel.Github.io/tree/main/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/js/jquery-1.11.2.min.js"></script>
+    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
 <!--Updated upstream
   ------>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZXJBVDf7R4JqmSpopVPoduIGWx1IwpBM"></script>
     <script type="text/javascript" src="js/plugins.js"></script>
 =======
-    <script type="text/javascript" src="https://mnoel112.github.io/Moleon-Noel.Github.io/https://maps.googleapis.com/maps/api/js?key=AIzaSyCZXJBVDf7R4JqmSpopVPoduIGWx1IwpBM"></script>
-    <script type="text/javascript" src="https://mnoel112.github.io/Moleon-Noel.Github.io/js/plugins.js"></script>
+    <script type="text/javascript" src="https:https://maps.googleapis.com/maps/api/js?key=AIzaSyCZXJBVDf7R4JqmSpopVPoduIGWx1IwpBM"></script>
+    <script type="text/javascript" src="/js/plugins.js"></script>
 -------> Stashed changes
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
