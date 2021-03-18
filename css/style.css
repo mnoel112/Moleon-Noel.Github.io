@@ -415,7 +415,7 @@ a {
 }
 
 .header-slide .image-slide .logo {
-  text-transform: uppercase;
+  text-transform: uppercase ;
   color: #fff;
   font-size: 24px;
   font-weight: 700;
@@ -518,7 +518,7 @@ a {
 }
 
 header.title h2 {
-  font-size: 30px;
+  font-size: 40px;
   margin-bottom: 20px;
   position: relative;
   font-weight: 700;
