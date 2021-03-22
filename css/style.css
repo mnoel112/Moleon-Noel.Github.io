@@ -633,9 +633,9 @@ span.quot-name:before {
 
 #about .big-image {
   position: absolute;
-  border-radius: 75%;
+  border-radius: 50%;
   left: 0;
-  width: 95%;
+  width: 75%;
   height: 75%;
   background-size: contain;
   background-repeat: no-repeat;
