@@ -739,17 +739,17 @@ span.quot-name:before {
 }
 
 /* On hover, add a black background color with a little bit see-through */
-.prev:hover,
-.next:hover {
+.prev2:hover,
+.next2:hover {
   background-color: rgba(0, 0, 0, 0.8);
 }
 
 /* Number text (1/3 etc) */
 .numbertext {
   color: #f2f2f2;
-  font-size: 12px;
+  font-size: 30px;
   padding: 8px 12px;
-  position: absolute;
+  position: top;
   top: 0;
 }
 
@@ -762,13 +762,15 @@ span.quot-name:before {
 }
 
 .row:after {
-  content: "";
+  content: "next";
   display: table;
   clear: both;
 }
 
 /* Six columns side by side */
-.column {
+.column
+ {
+  position:center;
   float: left;
   width: 16.66%;
   background-color:black;
